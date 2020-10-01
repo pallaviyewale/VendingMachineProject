@@ -26,7 +26,7 @@ public class VendingMachineAdminActions
 	}
 	
 	
-	private void loadInventory()
+	public void loadInventory()
 	{
 		HashMap<String,Item> productList = Products.Instance().getProducts();
 		for(Map.Entry<String, Item> list : productList.entrySet())
