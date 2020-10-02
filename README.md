@@ -31,6 +31,6 @@ pom.xml    - All Maven dependecies
 		   
 How to run  -
 App -
-Run VendingMachineApp.java file directely from IDE
+Run VendingMachineApp.java file directely from IDE as a JavaApplication.
 Tests - 
-Need to run TestRunner.java to run all feature files.
+Need to run TestRunner.java as JUnit Run to run all feature files.
